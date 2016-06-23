@@ -1,0 +1,13 @@
+api:
+  version: 0.1
+  endpoint: /api
+
+database:
+  user: root
+  password: 3767805
+  name: silex
+  host: 127.0.0.1
+  driver: pdo_mysql
+
+debug:
+  active: true
